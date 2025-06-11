@@ -1,3 +1,8 @@
+<!-- Skill Badges -->
+[![T-SQL](https://img.shields.io/badge/T--SQL-Expert-blue)](https://docs.microsoft.com/sql/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)](https://powerbi.microsoft.com/)
+[![SSMS](https://img.shields.io/badge/SSMS-v20.2-lightgrey)](https://docs.microsoft.com/sql/ssms/)
+
 Hi, I’m Kishor 👋
 
 🚀 About Me
