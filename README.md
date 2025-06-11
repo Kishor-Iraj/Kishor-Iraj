@@ -33,3 +33,4 @@ Cricket Player Weakness Analyser Dashboard (Power BI)
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/kishoriraj)  
 - 📧 kishor.st94@gmail.com
 - 📄 Resume  [📥 View or Download My Resume](https://github.com/Kishor-Iraj/Kishor-Iraj/raw/main/Kishor_Iraj_Resume_June25.pdf)
+
